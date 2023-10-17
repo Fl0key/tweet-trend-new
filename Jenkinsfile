@@ -1,5 +1,5 @@
 def registry = 'https://seshurao.jfrog.io'
-def imageName = 'valaxy01.jfrog.io/seshurao-docker-local/ttrend'
+def imageName = 'seshurao.jfrog.io/seshurao-docker-local/ttrend'
 def version   = '2.1.2'
 pipeline {
     agent {
