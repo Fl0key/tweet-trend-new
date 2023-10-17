@@ -44,7 +44,6 @@ pipeline {
                 }
             }
             }
-
         }
         stage("Jar Publish") {
             steps {
